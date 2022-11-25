@@ -1,1 +1,1 @@
-echo 'Hello, Hexlet! How are you?'
+echo 'Hello,  Hexlet! How are you?'
